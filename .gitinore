@@ -1,0 +1,10 @@
+# Archivos del sistema (innecesarios en el repositorio)
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación del micro:bit (si llegas a usar MakeCode offline)
+*.uf2
+*.hex
+
+# node_modules (por si usas librerías JS en el futuro)
+node_modules/
