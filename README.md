@@ -1,16 +1,16 @@
-# 📟 Sensor de Aceleración en 3 Ejes con micro:bit
+# Sensor de Aceleración en 3 Ejes con micro:bit
 
 Este proyecto utiliza el acelerómetro integrado del micro:bit para mostrar la aceleración en los ejes **X, Y y Z** mediante los botones A, B y A+B. También incluye un parpadeo LED central como indicador visual de que el sistema está activo.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Aprender a interactuar con sensores integrados en microcontroladores utilizando JavaScript (MakeCode), visualizando datos en tiempo real desde el micro:bit.
 
 ---
 
-## 🚀 ¿Cómo funciona?
+## ¿Cómo funciona?
 
 - 🔘 **Botón A:** Muestra la aceleración en el eje **X**
 - 🔘 **Botón B:** Muestra la aceleración en el eje **Y**
@@ -19,14 +19,14 @@ Aprender a interactuar con sensores integrados en microcontroladores utilizando 
 
 ---
 
-## 🧠 Tecnologías usadas
+## Tecnologías usadas
 
 - [BBC micro:bit](https://microbit.org/)
 - MakeCode (JavaScript para micro:bit)
 
 ---
 
-## 🛠️ Requisitos
+##  Requisitos
 
 - micro:bit v2 (o v1)
 - Editor [MakeCode](https://makecode.microbit.org/) en línea o local
@@ -35,11 +35,11 @@ Aprender a interactuar con sensores integrados en microcontroladores utilizando 
 ---
 
 
-## ✨ Autora
+## Autora
 
 **Pía Flores** – 18 años  
 Estudiante de Ingeniería en Tecnologías Computacionales  
-Apasionada por la electrónica, el desarrollo de videojuegos y la inteligencia artificial
+Apasionada por la electrónica, la inteligencia artificial, y en Ciencia de Datos
 
 ---
 
