@@ -39,17 +39,14 @@ Aprender a interactuar con sensores integrados en microcontroladores utilizando 
 
 **Pía Flores** – 18 años  
 Estudiante de Ingeniería en Tecnologías Computacionales  
-Apasionada por la electrónica, la inteligencia artificial, y en Ciencia de Datos
 
----
-
-## 📬 Contacto
+## Contacto
 
 piaf942@gmail.com
 
 ---
 
-## 📌 Estado del proyecto
+## Estado del proyecto
 
 ✅ Proyecto funcional — primera versión sin pantalla LCD  
 🔜 Próximamente: versión con pantalla I2C para mostrar datos externamente
